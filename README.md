@@ -1,6 +1,6 @@
 # Project Title
 ## Group Information
-- **Student 1:** [Full Name as in LMS] - [Student ID] - Role: [Role Name]
+- **Student 1:** [Full Name as in LMS] - [ITBIN-2313-0087] - Role: [Role Name]
 - **Student 2:** [Full Name as in LMS] - [Student ID] - Role: [Role Name]
 - **Student 3:** [Full Name as in LMS] - [Student ID] - Role: [Role Name]
 ## Project Description
